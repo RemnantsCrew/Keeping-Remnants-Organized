@@ -17,7 +17,7 @@ Here is a cropped screenshot of the private repository:
 
 ![Screenshot of FunkinRemnants-Private](images/branch.png)
 
-For the `FunkinRemnants-Private` repository, we have 6 tags, and 7 branches...<span style="font-size: 0.7rem">God damn it.</span>
+For the `FunkinRemnants-Private` repository, we have 6 tags, and 7 branches... god damn it.
 
 What are branches? What are tags? That's what this section is for.
 
