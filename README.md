@@ -15,7 +15,7 @@ This document will tell you everything that I've learned about organizing while 
 ## Branching and Tagging
 Here is a cropped screenshot of the private repository:
 
-![Screenshot of FunkinRemnants-Private](branch.png)
+![Screenshot of FunkinRemnants-Private](images/branch.png)
 
 For the `FunkinRemnants-Private` repository, we have 6 tags, and 7 branches...<span style="font-size: 0.7rem">God damn it.</span>
 
@@ -25,7 +25,7 @@ What are branches? What are tags? That's what this section is for.
 ### Tags
 Here are all the tags we have in Funkin' Remnants:
 
-![List of all tags](tags-list.png)
+![List of all tags](images/tags-list.png)
 
 If you haven't noticed yet, tags keep track of our releases. To be more exact, they keep track of the commits included in each version.
 
@@ -52,7 +52,7 @@ Have you ever wondered what `main` means on a GitHub repository? That's your bra
 
 Let's take a look at all the branches there are, shall we?
 
-![List of all branches](branch-list.png)
+![List of all branches](images/branch-list.png)
 
 I'll explain each in detail:
 - `main`
