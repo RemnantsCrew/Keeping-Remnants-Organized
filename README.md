@@ -41,7 +41,7 @@ We increase as follows:
   - When we release a small amount of content.
   - For example, *The April Fools Update* was `1.1.0-expansion`.
     - The `-expansion` suffix doesn't really mean anything.
-  - This is like a Destination Update for Funkin'.
+  - This is like a Pitstop Update for Funkin'.
 - `PATCH`
   - When we release small bug fixes, shouldn't include content unless it's really small.
   - For example, *The Emergency Freeplay Fix* was `1.1.1`.
